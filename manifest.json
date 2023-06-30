@@ -1,0 +1,8 @@
+{
+  "manifest_version": 1,
+  "vesrion": "1.0",
+  "name": "Joe Ejiro Online Resume",
+  "action": {
+    "defualt_popup": "index.html"
+  }
+}
