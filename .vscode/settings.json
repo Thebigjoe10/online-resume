@@ -1,0 +1,7 @@
+{
+  "MinifyAll.minifyOnSaveToNewFIle": false,
+  "MinifyAll.minifyOnSaveToNewFile": false,
+  "MinifyAll.minifyOnSave": true,
+  "MinifyAll.disableJavascriptReact": false,
+  "MinifyAll.openMinifiedDocument": false
+}
